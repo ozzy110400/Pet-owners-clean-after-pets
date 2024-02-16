@@ -1,4 +1,4 @@
-# DogPoopingDetection
+# Pet owners detection
 A project created during Hackaton 2023 - ai powered video analyzing, held by JAS Ventures
 
 ### more files of this project are found via following links: <br>
